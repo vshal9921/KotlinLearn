@@ -1,1 +1,1 @@
-A simpleproject tounderstand basic Kotlin concepts
+A simple project to understand basic Kotlin concepts
