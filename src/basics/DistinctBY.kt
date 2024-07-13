@@ -1,13 +1,15 @@
+package basics
+
 data class CustomObject(val field1: String, val field2: String, val field3: String, val field4: String)
 
 fun main() {
     // Sample list of objects
     val objects = listOf(
-        CustomObject("value1", "value2", "value3", "value4"),
-        CustomObject("value1", "value2", "value5", "value6"),
-        CustomObject("value3", "value2", "value5", "value6"),
-        CustomObject("value1", "value2", "value3", "value4"),
-        CustomObject("value3", "value4", "value5", "value6")
+        basics.CustomObject("value1", "value2", "value3", "value4"),
+        basics.CustomObject("value1", "value2", "value5", "value6"),
+        basics.CustomObject("value3", "value2", "value5", "value6"),
+        basics.CustomObject("value1", "value2", "value3", "value4"),
+        basics.CustomObject("value3", "value4", "value5", "value6")
     )
 
     // Removing duplicates based on two fields

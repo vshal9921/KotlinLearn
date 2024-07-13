@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     val fn = ::add  // add function stored in variable fn

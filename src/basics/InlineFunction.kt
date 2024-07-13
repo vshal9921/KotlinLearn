@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     calculateTime { runLoop(100000000) }

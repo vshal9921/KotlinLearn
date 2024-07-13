@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     val numbers = listOf(3, 6, 9, 14)

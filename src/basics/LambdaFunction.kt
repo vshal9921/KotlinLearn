@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     // lambda is a fumctoin without a name

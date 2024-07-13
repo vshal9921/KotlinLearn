@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     printObject("This is a generic function")

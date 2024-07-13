@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     var person1 = Person("A", 20)

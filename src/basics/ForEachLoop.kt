@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     val arr = arrayOf("Sunday","Monday","Tuesday")

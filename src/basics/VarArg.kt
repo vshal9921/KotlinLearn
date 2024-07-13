@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     addNum(2, 5, 6, 8)

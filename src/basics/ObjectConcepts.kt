@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     var obj = object : ObjectConcepts() {  // used for singleTon, initialized only once

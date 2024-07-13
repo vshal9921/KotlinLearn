@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     // forEach iterates the whole list without using loop

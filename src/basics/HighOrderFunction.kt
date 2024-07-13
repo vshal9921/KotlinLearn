@@ -1,3 +1,5 @@
+package basics
+
 fun main(){
 
     var fn: (a: Double, b: Double) -> Double = ::addition
